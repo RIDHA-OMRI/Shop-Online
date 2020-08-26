@@ -1,0 +1,194 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "queen panel bed",
+        "price": 10.99,
+        "image": { "fields": { "file": { "url": "./images/product-1.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "king panel bed",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/product-2.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "single panel bed",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/product-3.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "twin panel bed",
+        "price": 22.99,
+        "image": { "fields": { "file": { "url": "./images/product-4.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "fridge",
+        "price": 88.99,
+        "image": { "fields": { "file": { "url": "./images/product-5.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "dresser",
+        "price": 32.99,
+        "image": { "fields": { "file": { "url": "./images/product-6.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "couch",
+        "price": 45.99,
+        "image": { "fields": { "file": { "url": "./images/product-7.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "table",
+        "price": 33.99,
+        "image": { "fields": { "file": { "url": "./images/product-8.jpeg" } } }
+      }
+    },
+      {
+        "sys": { "id": "9" },
+        "fields": {
+          "title": "laptop",
+          "price": 33.99,
+          "image": { "fields": { "file": { "url": "./images/silver-and-black-laptop.jpg" } } }
+        }
+      },
+        {
+          "sys": { "id": "10" },
+          "fields": {
+            "title": "Shallow Focus",
+            "price": 33.99,
+            "image": { "fields": { "file": { "url": "./images/shallow-focus.jpg" } } }
+          }   
+        },
+        {
+          "sys": { "id": "11" },
+          "fields": {
+            "title": "Macbook Air",
+            "price": 2533.99,
+            "image": { "fields": { "file": { "url": "./images/macbook-air.jpg" } } }
+          }   
+        },
+        {
+          "sys": { "id": "12" },
+          "fields": {
+            "title": "Macbook Professinal",
+            "price": 4533.99,
+            "image": { "fields": { "file": { "url": "./images/macbook-pro.jpg" } } }
+          }   
+        },
+        {
+          "sys": { "id": "13" },
+          "fields": {
+            "title": "Hp Lenovo Pro",
+            "price": 33.99,
+            "image": { "fields": { "file": { "url": "./images/laptop-near-plant.jpg" } } }
+          }   
+        },
+        {
+          "sys": { "id": "14" },
+          "fields": {
+            "title": "High Angle",
+            "price": 33.99,
+            "image": { "fields": { "file": { "url": "./images/high-angle.jpg" } } }
+          }   
+        },
+        {
+          "sys": { "id": "15" },
+          "fields": {
+            "title": "Hero",
+            "price": 93.99,
+            "image": { "fields": { "file": { "url": "./images/hero-bcg.jpeg" } } }
+          }   
+        },
+        {
+          "sys": { "id": "16" },
+          "fields": {
+            "title": "Shallow Focus",
+            "price": 133.99,
+            "image": { "fields": { "file": { "url": "./images/elegant-eyewear.jpg" } } }
+          }   
+        },
+        {
+          "sys": { "id": "17" },
+          "fields": {
+            "title": "Close Up",
+            "price": 253.99,
+            "image": { "fields": { "file": { "url": "./images/close-up.jpg" } } }
+          }   
+        },
+        {
+          "sys": { "id": "18" },
+          "fields": {
+            "title": "Shallow clear glass",
+            "price": 53.99,
+            "image": { "fields": { "file": { "url": "./images/clear-glass.jpg" } } }
+          }   
+        },{
+          "sys": { "id": "19" },
+          "fields": {
+            "title": "Blue Jeans",
+            "price": 83.99,
+            "image": { "fields": { "file": { "url": "./images/blue-jeans.jpg" } } }
+          }   
+        },{
+          "sys": { "id": "20" },
+          "fields": {
+            "title": "black framed",
+            "price": 33.99,
+            "image": { "fields": { "file": { "url": "./images/black-framed.jpg" } } }
+          }   
+        },
+        {
+          "sys": { "id": "21" },
+          "fields": {
+            "title": "Assorted clothes",
+            "price": 133.99,
+            "image": { "fields": { "file": { "url": "./images/assorted-cloth-lot.jpg" } } }
+          }   
+        },
+        {
+          "sys": { "id": "22" },
+          "fields": {
+            "title": "Shell rack",
+            "price": 323.99,
+            "image": { "fields": { "file": { "url": "./images/shelf-rack.jpg" } } }
+          }   
+        },
+        {
+          "sys": { "id": "23" },
+          "fields": {
+            "title": "Shallow",
+            "price": 79.99,
+            "image": { "fields": { "file": { "url": "./images/shallow-focus.jpg" } } }
+          }   
+        },
+        {
+          "sys": { "id": "24" },
+          "fields": {
+            "title": "classic clothes",
+            "price": 133.99,
+            "image": { "fields": { "file": { "url": "./images/classic-clothes.jpg" } } }
+          }   
+        }
+  ]
+}
